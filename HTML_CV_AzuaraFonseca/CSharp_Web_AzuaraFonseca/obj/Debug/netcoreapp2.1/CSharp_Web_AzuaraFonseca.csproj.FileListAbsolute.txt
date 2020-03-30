@@ -1,0 +1,30 @@
+C:\Users\KevinUriel\Desktop\C Sharp\Unit 1\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\bin\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.deps.json
+C:\Users\KevinUriel\Desktop\C Sharp\Unit 1\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\bin\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.runtimeconfig.json
+C:\Users\KevinUriel\Desktop\C Sharp\Unit 1\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\bin\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.runtimeconfig.dev.json
+C:\Users\KevinUriel\Desktop\C Sharp\Unit 1\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\bin\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.dll
+C:\Users\KevinUriel\Desktop\C Sharp\Unit 1\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\bin\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.pdb
+C:\Users\KevinUriel\Desktop\C Sharp\Unit 1\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\obj\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.csprojAssemblyReference.cache
+C:\Users\KevinUriel\Desktop\C Sharp\Unit 1\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\obj\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.csproj.CoreCompileInputs.cache
+C:\Users\KevinUriel\Desktop\C Sharp\Unit 1\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\obj\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.RazorAssemblyInfo.cache
+C:\Users\KevinUriel\Desktop\C Sharp\Unit 1\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\obj\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.RazorAssemblyInfo.cs
+C:\Users\KevinUriel\Desktop\C Sharp\Unit 1\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\obj\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.AssemblyInfoInputs.cache
+C:\Users\KevinUriel\Desktop\C Sharp\Unit 1\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\obj\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.AssemblyInfo.cs
+C:\Users\KevinUriel\Desktop\C Sharp\Unit 1\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\obj\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.RazorTargetAssemblyInfo.cache
+C:\Users\KevinUriel\Desktop\C Sharp\Unit 1\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\obj\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.dll
+C:\Users\KevinUriel\Desktop\C Sharp\Unit 1\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\obj\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.pdb
+C:\Users\kebin\Desktop\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\obj\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.dll
+C:\Users\kebin\Desktop\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\obj\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.pdb
+C:\Users\kebin\Desktop\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\kebin\Desktop\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\bin\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.deps.json
+C:\Users\kebin\Desktop\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\bin\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.runtimeconfig.json
+C:\Users\kebin\Desktop\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\bin\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.runtimeconfig.dev.json
+C:\Users\kebin\Desktop\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\bin\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.dll
+C:\Users\kebin\Desktop\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\bin\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.pdb
+C:\Users\kebin\Desktop\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\obj\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.csprojAssemblyReference.cache
+C:\Users\kebin\Desktop\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\obj\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.csproj.CoreCompileInputs.cache
+C:\Users\kebin\Desktop\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\obj\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.RazorAssemblyInfo.cache
+C:\Users\kebin\Desktop\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\obj\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.RazorAssemblyInfo.cs
+C:\Users\kebin\Desktop\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\obj\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.AssemblyInfoInputs.cache
+C:\Users\kebin\Desktop\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\obj\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.AssemblyInfo.cs
+C:\Users\kebin\Desktop\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\obj\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.RazorTargetAssemblyInfo.cache
+C:\Users\kebin\Desktop\CSharp_Web_AzuaraFonseca\CSharp_Web_AzuaraFonseca\obj\Debug\netcoreapp2.1\CSharp_Web_AzuaraFonseca.genruntimeconfig.cache
